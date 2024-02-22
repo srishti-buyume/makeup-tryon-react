@@ -1,0 +1,23 @@
+/* CSS for adding a glow effect to the cheek area */
+.cheek-glow {
+    /* box-shadow: 0 0 10px 5px rgba(255, 155, 155, 0.7);  */
+    /* Customize the color and intensity */
+    filter: blur(0px); 
+    /* Adjust the blur radius for the desired glow effect */
+  }
+
+
+  .canvas-filter {
+      /* filter: blur(1%); */
+      /* filter: brightness(120%); */
+      filter: contrast(130%);
+      /* filter: grayscale(100%); */
+      /* filter: hue-rotate(350deg); */
+      /* filter: invert(5%); */
+      /* filter: opacity(100%); */
+      filter: saturate(120%);
+      /* sfilter: sepia(10%); */
+      /* filter: drop-shadow(8px 8px 10px green); */
+    }
+  
+  

@@ -1,0 +1,12 @@
+.canvas-filter {
+    /* filter: blur(1%); */
+    filter: brightness(90%);
+    filter: contrast(130%);
+    /* filter: grayscale(100%); */
+    /* filter: hue-rotate(350deg); */
+    /* filter: invert(5%); */
+    /* filter: opacity(100%); */
+    filter: saturate(120%);
+    /* sfilter: sepia(10%); */
+    /* filter: drop-shadow(8px 8px 10px green); */
+  }
